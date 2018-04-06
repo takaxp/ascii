@@ -3,8 +3,8 @@
 ;; Copyright (C) 1999, 2000, 2001, 2006, 2007, 2008, 2009, 2010, 2011
 ;; Vinicius Jose Latorre
 
-;; Author:	Vinicius Jose Latorre <viniciusjl@ig.com.br>
-;; Maintainer:	Vinicius Jose Latorre <viniciusjl@ig.com.br>
+;; Author:	Vinicius Jose Latorre <viniciusjl at ig.com.br>
+;; Maintainer:	Vinicius Jose Latorre <viniciusjl at ig.com.br>
 ;; Time-stamp:	<2011/01/12 00:58:17 vinicius>
 ;; Keywords:	data, ascii
 ;; Version:	3.1
